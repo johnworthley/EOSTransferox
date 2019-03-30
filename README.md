@@ -2,7 +2,7 @@
 
 # EOSTransferox
 
-## Demux server for logging Real-Time Eos Transfers onto mongodb
+## Demux server for logging Real-Time EOS Transfers onto mongodb
 
 **To start**
 ```sh
